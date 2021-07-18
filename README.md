@@ -1,5 +1,5 @@
 # Buildweek - 1
-This repository contains the code for Streamlit of the first BuildWeek. You can also find the live application [here](https://share.streamlit.io/pathi-rao/bw1_streamlit/main/app.py)
+This repository contains the code for Streamlit of the first BuildWeek. You can also find the live application [here](https://share.streamlit.io/pathi-rao/webscrapping_goodreads/main/app.py)
 
 
 ##  Goal 
