@@ -35,6 +35,3 @@ streamlit run app.py
 ## Team
 * [Lakshmipathi rao Devalla](https://github.com/Pathi-rao)
 * [Deniz Elci](https://github.com/Deniz-shelby)
-* [Thanh Nguyen](https://github.com/zoeynguyen1719)
-* [Bilal Hussain](https://github.com/bills24)
-* [Stephen George](https://github.com/stephengeorge93)
